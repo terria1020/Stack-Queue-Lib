@@ -1,6 +1,5 @@
 #include "../header/stack.h"
 #include <stdlib.h>
-#include <stdio.h>
 
 Stack* newStack(int maxSize)
 {
